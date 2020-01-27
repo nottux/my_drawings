@@ -17,5 +17,6 @@ This Github page
 
 [Web Archive](https://archive.org/details/@tuxutku)
 
+If someone else's original art is here, it means it's by acciedent, do a pull request or create an issue to let me know.
 
 If a picture doesn't have the license (cc attribution only), please let me know. My username for all social media is `tuxutku`
